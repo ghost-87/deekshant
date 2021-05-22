@@ -1,4 +1,4 @@
-package com.codeify.nectar
+package com.example.deekshant
 
 import io.flutter.embedding.android.FlutterActivity
 
